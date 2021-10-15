@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">QuizAboutNothing</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następna</string>
+
+    <string name="chemia">Czy bezwodny kwas octowy w temperaturze poniżej 16°C nazywamy kwasem lodowatym?</string>
+    <string name="historia">CZy faraon nosił trzy korony?</string>
+    <string name="polski">Mity greckie tłumaczą następstwo pór roku za pomocą mitu o Tezeuszu i Ariadnie.</string>
+    <string name="fizyka">Do stopienia ciała stałego niezbędna jest energia cieplna.</string>
+    <string name="geografia">Charakterystyczny dla pobrzeży jest wiatr nazywany halnym.</string>
+    <string name="biologia">Bezkręgowce nie posiadają szkieletu, ale mogą posiadać szkielet zewnętrzny.</string>
+
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="inncorrect_answer">Błędna odpowiedź odpowiedź</string>
+
+</resources>
